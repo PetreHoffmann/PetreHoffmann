@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>MouseMover<br>FancyScrollView<br><br>🌱 I’m currently learning<br>SpringBoot<br><br>💬 Ask me about<br>C# (WPF and ASP.NET Core)<br>SwiftUI<br>Android Kotlin<br>PowerShell
+🔭 I’m currently working on<br>[MouseMover](https://github.com/PetreHoffmann/MouseMover)<br>[FancyScrollView](https://github.com/PetreHoffmann/FancyScrollView)<br><br>🌱 I’m currently learning<br>[SpringBoot](https://spring.io/projects/spring-boot)<br><br>💬 Ask me about<br>C# ([WPF](https://learn.microsoft.com/de-de/dotnet/desktop/wpf/?view=netdesktop-7.0) and [ASP.NET Core](https://learn.microsoft.com/de-de/aspnet/core/?view=aspnetcore-7.0))<br>[SwiftUI](https://developer.apple.com/xcode/swiftui/)<br>[Android Kotlin](https://kotlinlang.org/)<br>[PowerShell](https://learn.microsoft.com/en-us/powershell/)
 
 
 # 🌐 Socials:
