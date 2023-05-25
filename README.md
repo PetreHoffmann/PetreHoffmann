@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>MouseMover<br>FancyScrollView<br><br>🌱 I’m currently learning<br>SpringBoot<br><br>💬 Ask me about<br>C# (WPF and ASP.NET Core)<br>SwiftUI<br>Android Kotlin
+🔭 I’m currently working on<br>MouseMover<br>FancyScrollView<br><br>🌱 I’m currently learning<br>SpringBoot<br><br>💬 Ask me about<br>C# (WPF and ASP.NET Core)<br>SwiftUI<br>Android Kotlin<br>PowerShell
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@petrehoffmann) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/PetreHoffmann) 
 
 # 💻 Tech Stack:
